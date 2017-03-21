@@ -362,3 +362,64 @@
 // 10. Write a function called 'objectTen' that creates an empty object called objTen
 
 // TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 1. Write a function called 'returnFuncOne' that has an parameter called inputOne and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 2. Write a function called 'returnFuncTwo' that has an parameter called inputTwo and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 3. Write a function called 'returnFuncThree' that has an parameter called inputThree and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 4. Write a function called 'returnFuncFour' that has an parameter called inputFour and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 5. Write a function called 'returnFuncFive' that has an parameter called inputFive and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 6. Write a function called 'returnFuncSix' that has an parameter called inputSix and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 7. Write a function called 'returnFuncSeven' that has an parameter called inputSeven and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 8. Write a function called 'returnFuncEight' that has an parameter called inputEight and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 9. Write a function called 'returnFuncNine' that has an parameter called inputNine and returns that input
+
+// TODO: function here
+
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// 10. Write a function called 'returnFuncTen' that has an parameter called inputTen and returns that input
+
+// TODO: function here
