@@ -1,12 +1,12 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-//  3. Write a function called 'skeletonFuncthree' that creates the skeleton of a function
+//  1. Write a function called 'skeletonFuncOne' that creates the skeleton of a function
 
 // TODO: function here
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-//  3. Write a function called 'skeletonFuncthree' that creates the skeleton of a function
+//  2. Write a function called 'skeletonFuncTwo' that creates the skeleton of a function
 
 // TODO: function here
 
